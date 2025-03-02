@@ -15,7 +15,7 @@ Naughty Window is an experimental Windows application designed to create persist
    - [Download NaughtyWindowSetup.zip](https://github.com/user-attachments/files/19042644/NaughtyWindowSetup.zip)
 2. **Extract the ZIP file.**
 3. **Run `setup.exe` and follow the installation wizard.**
-4. **The application will start running automatically.**
+4. **A shortcut to the application will appear on the desktop. Click it to start running Naughty Window.**
 
 ## Usage 🖥️
 Once launched, **Naughty Window** will ensure that it remains active and reopens when closed.  
