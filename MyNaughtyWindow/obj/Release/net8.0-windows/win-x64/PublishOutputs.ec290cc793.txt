@@ -1,0 +1,2 @@
+C:\Users\yedid\source\repos\MyNaughtyWindow\MyNaughtyWindow\bin\Release\net8.0-windows\win-x64\publish\MyNaughtyWindow.pdb
+C:\Users\yedid\source\repos\MyNaughtyWindow\MyNaughtyWindow\bin\Release\net8.0-windows\win-x64\publish\MyNaughtyWindow.exe

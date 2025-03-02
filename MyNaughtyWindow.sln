@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyNaughtyWindow", "MyNaughtyWindow\MyNaughtyWindow.csproj", "{120C2199-5079-437E-82D1-CE8E4D3EECDD}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "NaughtyWindowSetup", "NaughtyWindowSetup\NaughtyWindowSetup.vdproj", "{D8969D12-2600-47A5-88DE-A51007DB6040}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{120C2199-5079-437E-82D1-CE8E4D3EECDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{120C2199-5079-437E-82D1-CE8E4D3EECDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{120C2199-5079-437E-82D1-CE8E4D3EECDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{120C2199-5079-437E-82D1-CE8E4D3EECDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8969D12-2600-47A5-88DE-A51007DB6040}.Debug|Any CPU.ActiveCfg = Debug
+		{D8969D12-2600-47A5-88DE-A51007DB6040}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E606ADCE-52BD-4C2B-9C7A-6BCB42BADE4E}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yedid\\source\\repos\\MyNaughtyWindow\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{120C2199-5079-437E-82D1-CE8E4D3EECDD}|MyNaughtyWindow\\MyNaughtyWindow.csproj|C:\\Users\\yedid\\source\\repos\\MyNaughtyWindow\\mynaughtywindow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{120C2199-5079-437E-82D1-CE8E4D3EECDD}|MyNaughtyWindow\\MyNaughtyWindow.csproj|solutionrelative:mynaughtywindow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{120C2199-5079-437E-82D1-CE8E4D3EECDD}|MyNaughtyWindow\\MyNaughtyWindow.csproj|c:\\users\\yedid\\source\\repos\\mynaughtywindow\\mynaughtywindow\\nw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{120C2199-5079-437E-82D1-CE8E4D3EECDD}|MyNaughtyWindow\\MyNaughtyWindow.csproj|solutionrelative:mynaughtywindow\\nw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{120C2199-5079-437E-82D1-CE8E4D3EECDD}|MyNaughtyWindow\\MyNaughtyWindow.csproj|C:\\Users\\yedid\\source\\repos\\MyNaughtyWindow\\mynaughtywindow\\nw.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{120C2199-5079-437E-82D1-CE8E4D3EECDD}|MyNaughtyWindow\\MyNaughtyWindow.csproj|solutionrelative:mynaughtywindow\\nw.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NW.cs",
+              "DocumentMoniker": "C:\\Users\\yedid\\source\\repos\\MyNaughtyWindow\\MyNaughtyWindow\\NW.cs",
+              "RelativeDocumentMoniker": "MyNaughtyWindow\\NW.cs",
+              "ToolTip": "C:\\Users\\yedid\\source\\repos\\MyNaughtyWindow\\MyNaughtyWindow\\NW.cs",
+              "RelativeToolTip": "MyNaughtyWindow\\NW.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAYwHwAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T12:29:32.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yedid\\source\\repos\\MyNaughtyWindow\\MyNaughtyWindow\\Program.cs",
+              "RelativeDocumentMoniker": "MyNaughtyWindow\\Program.cs",
+              "ToolTip": "C:\\Users\\yedid\\source\\repos\\MyNaughtyWindow\\MyNaughtyWindow\\Program.cs",
+              "RelativeToolTip": "MyNaughtyWindow\\Program.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAmwIMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T21:23:05.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NW.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\yedid\\source\\repos\\MyNaughtyWindow\\MyNaughtyWindow\\NW.Designer.cs",
+              "RelativeDocumentMoniker": "MyNaughtyWindow\\NW.Designer.cs",
+              "ToolTip": "C:\\Users\\yedid\\source\\repos\\MyNaughtyWindow\\MyNaughtyWindow\\NW.Designer.cs",
+              "RelativeToolTip": "MyNaughtyWindow\\NW.Designer.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAC8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T08:49:33.364Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

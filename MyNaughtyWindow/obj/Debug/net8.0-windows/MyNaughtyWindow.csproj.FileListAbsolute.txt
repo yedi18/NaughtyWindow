@@ -1,0 +1,17 @@
+C:\Users\yedid\source\repos\MyNaughtyWindow\MyNaughtyWindow\bin\Debug\net8.0-windows\MyNaughtyWindow.exe
+C:\Users\yedid\source\repos\MyNaughtyWindow\MyNaughtyWindow\bin\Debug\net8.0-windows\MyNaughtyWindow.dll
+C:\Users\yedid\source\repos\MyNaughtyWindow\MyNaughtyWindow\bin\Debug\net8.0-windows\NaughtyIcon.ico
+C:\Users\yedid\source\repos\MyNaughtyWindow\MyNaughtyWindow\obj\Debug\net8.0-windows\MyNaughtyWindow.NW.resources
+C:\Users\yedid\source\repos\MyNaughtyWindow\MyNaughtyWindow\obj\Debug\net8.0-windows\MyNaughtyWindow.csproj.GenerateResource.cache
+C:\Users\yedid\source\repos\MyNaughtyWindow\MyNaughtyWindow\obj\Debug\net8.0-windows\MyNaughtyWindow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yedid\source\repos\MyNaughtyWindow\MyNaughtyWindow\obj\Debug\net8.0-windows\MyNaughtyWindow.AssemblyInfoInputs.cache
+C:\Users\yedid\source\repos\MyNaughtyWindow\MyNaughtyWindow\obj\Debug\net8.0-windows\MyNaughtyWindow.AssemblyInfo.cs
+C:\Users\yedid\source\repos\MyNaughtyWindow\MyNaughtyWindow\obj\Debug\net8.0-windows\MyNaughtyWindow.csproj.CoreCompileInputs.cache
+C:\Users\yedid\source\repos\MyNaughtyWindow\MyNaughtyWindow\obj\Debug\net8.0-windows\MyNaughtyWindow.dll
+C:\Users\yedid\source\repos\MyNaughtyWindow\MyNaughtyWindow\obj\Debug\net8.0-windows\refint\MyNaughtyWindow.dll
+C:\Users\yedid\source\repos\MyNaughtyWindow\MyNaughtyWindow\obj\Debug\net8.0-windows\MyNaughtyWindow.pdb
+C:\Users\yedid\source\repos\MyNaughtyWindow\MyNaughtyWindow\bin\Debug\net8.0-windows\MyNaughtyWindow.deps.json
+C:\Users\yedid\source\repos\MyNaughtyWindow\MyNaughtyWindow\bin\Debug\net8.0-windows\MyNaughtyWindow.runtimeconfig.json
+C:\Users\yedid\source\repos\MyNaughtyWindow\MyNaughtyWindow\bin\Debug\net8.0-windows\MyNaughtyWindow.pdb
+C:\Users\yedid\source\repos\MyNaughtyWindow\MyNaughtyWindow\obj\Debug\net8.0-windows\MyNaughtyWindow.genruntimeconfig.cache
+C:\Users\yedid\source\repos\MyNaughtyWindow\MyNaughtyWindow\obj\Debug\net8.0-windows\ref\MyNaughtyWindow.dll
